@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project builds an NLP-based classification system to analyse customer messages in a debt collection environment and predict the customer’s intent. The solution combines text preprocessing, sequence modelling using LSTM neural networks, hyperparameter tuning, and a rule-based routing system to automate decision-making.
+Built an NLP-based classification system to analyse customer messages in a debt collection environment and predict the customer’s intent. The solution combines text preprocessing, sequence modelling using LSTM neural networks, hyperparameter tuning, and a rule-based routing system to automate decision-making.
 
 The model classifies messages into predefined categories and routes them to the appropriate action or team, with a confidence-based fallback to human agents when predictions are uncertain.
 
