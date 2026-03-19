@@ -117,8 +117,7 @@ Input message → Preprocessing → Tokenisation → Model prediction → Confid
 - numpy  
 - tensorflow / keras  
 - keras-tuner  
-- scikit-learn  
-- re  
+- scikit-learn   
 
 ---
 
